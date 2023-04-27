@@ -1,4 +1,4 @@
-![Header image](Assets/Header.jpg)
+![Header image](Assets/Header.png)
 
 I am a software developer with expertise in .Net platform, Unity game engine, and NodeJS web development. I enjoy creating dynamic and responsive applications with intuitive user interfaces. With a strong passion for learning and problem-solving, I am always seeking new challenges and opportunities to improve my skills.
 
